@@ -1,0 +1,6 @@
+services:
+  
+type: web
+  name: LongDivisionTable
+  env: docker
+  plan: free
