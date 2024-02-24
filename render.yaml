@@ -1,6 +1,5 @@
 services:
-  
-type: web
-  name: LongDivisionTable
-  env: docker
-  plan: free
+  - type: web
+    name: LongDivisionGrapher
+    env: docker
+    plan: free
